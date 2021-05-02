@@ -1,2 +1,2 @@
 # first-vue-app
-Simple learning Vue app!
+Simple Vue app as a very start!
